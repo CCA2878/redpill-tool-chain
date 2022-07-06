@@ -1,4 +1,4 @@
-name: build_ds3615xs
+name: build_ds918p
 
 on:
   workflow_dispatch:
